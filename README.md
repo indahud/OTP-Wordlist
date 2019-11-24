@@ -1,6 +1,7 @@
-# 6 digit OTP
+# 6 digit OTP's to bruteforce 2FA
 
-- This file contains a 6 digit OTP passwords. 
-- Passwords are shuffled. 
-- Increased chances of brutforce login
-- List contains 10,00,000 combinations 
+- File contains all the possible combinations of 6 digit numbers. 
+- List contains 10,00,000 combinations. 
+- Combinations are not in ordered list they are shuffled.
+- It increases the chances of loging in.
+
